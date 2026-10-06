@@ -1,0 +1,31 @@
+Algoritmo PresupuestoEvento
+	//Fecha 25 sept
+	//Autor JAPR
+	//El precio del menú por persona es de 95,00e, pero si el número de personas es mayor a 200 pero menor o igual a 300, el precio es de 85.00e. Para más de 300 personas el coste porpersona es de 75.00e.Se requiere un algoritmo que ayude a determinar el presupuesto que se debe presentar a los clientes que deseen realizar un evento.  
+	
+	//Parte declarativa
+	Definir personas Como Entero
+	Definir precio Como Entero
+	Definir precio95 Como Entero
+	Definir precio85 Como Entero
+	Definir precio75 Como Entero
+	
+	precio95 <- 95
+	precio85 <- 85
+	precio75 <- 75
+	
+	//cuerpor del Algoritmo 
+	Escribir "Indique el número de personas asistentes al evento: "
+	Leer personas
+	
+	Si personas > 300 Entonces
+		precio <- precio75
+	FinSi
+	Si personas > 200 y personas < 301 Entonces
+		precio <- precio85
+	FinSi
+	Si personas < 201 Entonces
+		precio <- precio95
+	FinSi
+	Escribir "El presupuesto total para el evento de ",personas, " persona(s) será de: ",personas*precio, "euros. Cada menú corresponde a ",precio,"euros por persona(s)."
+FinAlgoritmo

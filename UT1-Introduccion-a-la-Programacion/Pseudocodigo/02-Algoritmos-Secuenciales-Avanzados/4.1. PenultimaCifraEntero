@@ -1,0 +1,20 @@
+Algoritmo PenultimaCifraEntero
+	//Fecha 23 Sept
+	//Autor JAPR
+	//Obtener la penultima cifra de un numero entero
+	
+	//Parte declarativa
+	Definir num1 Como Entero
+	Definir penUltNum Como Entero
+	
+	//Cuerpo del Algoritmo 
+	Escribir"Escriba un número entero el cuál quiere obtener la penúltima cifra del mismo: "
+	leer num1
+	
+	si Abs(num1) < 10 entonces
+		Escribir "El número dado no tiene penúltima cifra, debe selecciónar uno de dos cifras."
+	sino penUltNum <- Trunc (Abs(num1) / 10) mod 10
+		Escribir "La penúltima cifra del número ", num1, " corresponde al valor: ",penUltNum
+	FinSi
+	
+FinAlgoritmo

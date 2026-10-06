@@ -1,0 +1,21 @@
+Algoritmo AreaCilindro
+	//Fecha 22 Sept
+	//Autor JAPR
+	//Calcular el area de un cilindro dada la formula A= 2 * PI * r * (r + h)
+	
+	//Parte declarativa
+	Definir r Como Real
+	Definir h Como Real
+	Definir A Como Real
+	
+	//Cuerpo del Algoritmo 
+	Escribir "Indique el radio del cilindro: "
+	Leer r
+	
+	Escribir "Indique la altura del cilindro: "
+	Leer h
+	
+	A <- 2 * PI * r * (r + h)
+	Escribir "El área del cilindro es: ", A
+	
+FinAlgoritmo

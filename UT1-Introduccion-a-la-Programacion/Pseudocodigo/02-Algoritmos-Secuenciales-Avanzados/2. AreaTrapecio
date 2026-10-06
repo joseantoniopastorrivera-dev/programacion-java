@@ -1,0 +1,25 @@
+Algoritmo AreaTrapecio
+	//Fecha 22 Sept
+	//Autor JAPR
+	//Calcular el area de un trapecio dada la formula A= h * (a + b)/2
+	
+	//Parte declarativa
+	Definir h Como Real
+	Definir a Como Real
+	Definir b Como Real
+	Definir Area Como Real
+	
+	//Cuerpo del algoritmo
+	Escribir "Indique la longitud del lado a del trapecio: "
+	Leer a
+	
+	Escribir "Indique la longitud del lado b del trapecio: "
+	Leer b
+	
+	Escribir "Indique la altura h del trapecio: "
+	Leer h
+	
+	Area <- h * (a + b)/2
+	
+	Escribir "El área del trapecio es: ", Area
+FinAlgoritmo

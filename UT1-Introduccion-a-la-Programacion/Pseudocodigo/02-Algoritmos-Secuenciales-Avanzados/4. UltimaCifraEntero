@@ -1,0 +1,16 @@
+Algoritmo UltimaCifraEntero
+	//Fecha 22 Sept
+	//Autor JAPR
+	//Diseñar algoritmo para obtener la última cifra de un número entero introducido por pantalla. Por ejemplo, si el usuario escribe el nº 15 el resultado será 5 .
+	
+	//Parte declarativa
+	Definir num como entero
+	Definir ultCifra como entero
+	
+	//Cuerpo del Algoritmo 
+	Escribir "Escribe un numero entero del cual quieres saber su última cifra: "
+	Leer num
+	
+	ultCifra <- num mod 10
+	Escribir "La ultima cifra del número ", num," es: ",ultCifra
+FinAlgoritmo

@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AppPedidos",
+            "request": "launch",
+            "mainClass": "AppPedidos",
+            "projectName": "ExamenSolucion_52a03435"
+        },
+        {
+            "type": "java",
+            "name": "AppPedidos",
+            "request": "launch",
+            "mainClass": "AppPedidos",
+            "projectName": "ExamenSolucion_e07a8fc6"
+        },
+        {
+            "type": "java",
+            "name": "AppPedidos",
+            "request": "launch",
+            "mainClass": "AppPedidos",
+            "projectName": "Examen_2ea8d47c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AppPedidos",
+            "request": "launch",
+            "mainClass": "AppPedidos",
+            "projectName": "ExamenEj2_a3639108"
+        }
+    ]
+}

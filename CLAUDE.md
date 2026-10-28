@@ -18,5 +18,5 @@ Ejercicios y proyectos de Java organizados por unidad. No es un único proyecto:
 - Proyectos con `pom.xml`: `mvn compile exec:java` o desde el IDE. Java 17; JDBC usa `mysql-connector-j`.
 
 ## Notas
-- Hay `target/classes/*.class` subidos por error en UT05: no añadas más; si toca limpiar, proponlo antes.
+- `target/`, `bin/`, `out/` y `*.class` están en `.gitignore`: no los fuerces al commit.
 - Paquetes de los proyectos Maven: `com.japr.*`.

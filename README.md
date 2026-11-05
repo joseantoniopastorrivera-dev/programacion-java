@@ -8,16 +8,16 @@ Repositorio dedicado a las prácticas, ejercicios, Unidades de Trabajo (UT) y pr
 
 El contenido se organiza de manera modular por unidades y bloques de aprendizaje oficiales:
 
-* **`UT01-Introduccion-a-la-Programacion/`** : Algoritmia, pseudocódigo inicial y primeras estructuras de control en PSeInt.
-* **`UT02-UT03-Fundamentos-Y-Estructuras-Java/`** : Sintaxis de Java, tipos de datos, estructuras de control, bucles anidados, vectores/arrays y algoritmos de ordenación (Burbuja, Inserción, Selección y Mezcla).
-* **`UT04-Programacion-Orientada-A-Objetos/`** : Introducción a la POO, clases, atributos privados, constructores y métodos de validación (`Localidad`, `Persona`, `Biblioteca`, `Quiniela`, etc.).
-* **`UT05-Programacion-Orientada-A-Objetos-Avanzada/`** : Herencia, polimorfismo, clases abstractas, interfaces y proyectos prácticos (`Vehículos`, `Empleados`, `Taller`).
-* **`UT06-Manejo-De-Excepciones/`** : Control de errores en tiempo de ejecución, bloques `try-catch` y excepciones personalizadas.
-* **`UT07-Colecciones-Y-Estructuras-De-Datos/`** : Estructuras de datos dinámicas, colecciones (`ArrayList`, listas enlazadas), diccionarios y mapas.
-* **`UT08-Interfaces-Graficas-Swing/`** : Desarrollo de interfaces de usuario con Java Swing, gestión de eventos y formularios interactivos (Calculadora).
-* **`UT09-Entrada-Y-Salida-De-Datos/`** : Gestión de ficheros y flujos de datos en Java mediante `File`, `FileWriter`, `BufferedWriter` y `PrintWriter`.
-* **`UT10-Acceso-A-Bases-De-Datos-JDBC/`** : Conexión de Java con bases de datos relacionales MySQL mediante JDBC, sentencias preparadas (`PreparedStatement`) y arquitectura DAO.
-* **`UT11-Simulacros-De-Examen/`** : Casos prácticos integrales y simulacros de examen (Gestión de alquileres de vehículos y App de gestión de pedidos con mapas y capas).
+* **`ut01-introduccion-a-la-programacion/`** : Algoritmia, pseudocódigo inicial y primeras estructuras de control en PSeInt.
+* **`ut02-ut03-fundamentos-y-estructuras-java/`** : Sintaxis de Java, tipos de datos, estructuras de control, bucles anidados, vectores/arrays y algoritmos de ordenación (Burbuja, Inserción, Selección y Mezcla).
+* **`ut04-programacion-orientada-a-objetos/`** : Introducción a la POO, clases, atributos privados, constructores y métodos de validación (`Localidad`, `Persona`, `Biblioteca`, `Quiniela`, etc.).
+* **`ut05-programacion-orientada-a-objetos-avanzada/`** : Herencia, polimorfismo, clases abstractas, interfaces y proyectos prácticos (`Vehículos`, `Empleados`, `Taller`).
+* **`ut06-manejo-de-excepciones/`** : Control de errores en tiempo de ejecución, bloques `try-catch` y excepciones personalizadas.
+* **`ut07-colecciones-y-estructuras-de-datos/`** : Estructuras de datos dinámicas, colecciones (`ArrayList`, listas enlazadas), diccionarios y mapas.
+* **`ut08-interfaces-graficas-swing/`** : Desarrollo de interfaces de usuario con Java Swing, gestión de eventos y formularios interactivos (Calculadora).
+* **`ut09-entrada-y-salida-de-datos/`** : Gestión de ficheros y flujos de datos en Java mediante `File`, `FileWriter`, `BufferedWriter` y `PrintWriter`.
+* **`ut10-acceso-a-bases-de-datos-jdbc/`** : Conexión de Java con bases de datos relacionales MySQL mediante JDBC, sentencias preparadas (`PreparedStatement`) y arquitectura DAO.
+* **`ut11-simulacros-de-examen/`** : Casos prácticos integrales y simulacros de examen (Gestión de alquileres de vehículos y App de gestión de pedidos con mapas y capas).
 
 ---
 

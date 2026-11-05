@@ -3,15 +3,15 @@
 Ejercicios y proyectos de Java organizados por unidad. No es un único proyecto: cada carpeta se compila y ejecuta por separado.
 
 ## Estructura
-- `UT01-Introduccion-a-la-Programacion/` — pseudocódigo (PSeInt).
-- `UT02-UT03-Fundamentos-Y-Estructuras-Java/01..10-*` — sintaxis, tipos, Scanner, condicionales, bucles, arrays, Math, Strings, minijuegos, algoritmos de ordenación.
-- `UT04-Programacion-Orientada-A-Objetos/` — clases básicas (lampara, intervalo, quiniela, empleados…).
-- `UT05-Programacion-Orientada-A-Objetos-Avanzada/` — herencia, interfaces; proyectos Maven `Proyecto_Empleados/empleados`, `Proyecto_Interfaces/interfaces`, `Proyecto_Taller/taller`.
-- `UT06-Manejo-De-Excepciones/excepciones/` — Maven.
-- `UT07-Colecciones-Y-Estructuras-De-Datos/` — ArrayList, mapas, listas enlazadas, retos.
-- `UT08-Interfaces-Graficas-Swing/`, `UT09-Entrada-Y-Salida-De-Datos/`, `UT10-Acceso-A-Bases-De-Datos-JDBC/` (MySQL, DAO).
-- `UT11-Simulacros-De-Examen/` — casos integrales (alquiler de vehículos, pedidos).
-- `Repaso-2026-2027/fase-1..5/` — repaso de cara a 2º.
+- `ut01-introduccion-a-la-programacion/` — pseudocódigo (PSeInt).
+- `ut02-ut03-fundamentos-y-estructuras-java/01..10-*` — sintaxis, tipos, Scanner, condicionales, bucles, arrays, Math, Strings, minijuegos, algoritmos de ordenación.
+- `ut04-programacion-orientada-a-objetos/` — clases básicas (lampara, intervalo, quiniela, empleados…).
+- `ut05-programacion-orientada-a-objetos-avanzada/` — herencia, interfaces; proyectos Maven `proyecto-empleados/empleados`, `proyecto-interfaces/interfaces`, `proyecto-taller/taller`.
+- `ut06-manejo-de-excepciones/excepciones/` — Maven.
+- `ut07-colecciones-y-estructuras-de-datos/` — ArrayList, mapas, listas enlazadas, retos.
+- `ut08-interfaces-graficas-swing/`, `ut09-entrada-y-salida-de-datos/`, `ut10-acceso-a-bases-de-datos-jdbc/` (MySQL, DAO).
+- `ut11-simulacros-de-examen/` — casos integrales (alquiler de vehículos, pedidos).
+- `repaso-2026-2027/fase-1..5/` — repaso de cara a 2º.
 
 ## Compilar y ejecutar
 - Ejercicios sueltos: `javac Archivo.java && java Archivo` desde su carpeta.

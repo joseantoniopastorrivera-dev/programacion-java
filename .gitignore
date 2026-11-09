@@ -2,3 +2,6 @@ target/
 bin/
 out/
 *.class
+
+# Guías de defensa: material personal, nunca se suben a GitHub
+guia-defensa-*.md
